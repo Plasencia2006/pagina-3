@@ -132,9 +132,6 @@ dist
 
 # Gatsby files 
 
-.cache/ 
-
-public 
 
  
 
@@ -150,9 +147,6 @@ public
 
 # vue / cli-service build output 
 
-dist/ 
-
-public/ 
 
  
 
